@@ -244,8 +244,16 @@ function create_config( )
       "italian_lang",
       "portuguese_lang",
       "arabic"
-     },
-    sudo_users = {our_id},
+     "aboutsuo",
+      "antifuck",
+      "autoleave",
+      "echo",
+      "upsup",
+      "welcomesup",
+      "supinfo",
+      "tophoto",
+      "info"},
+    sudo_users = {104583328},
     admin_users = {},
     disabled_channels = {}
   }
